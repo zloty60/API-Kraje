@@ -28,3 +28,6 @@ function showCountriesList(resp) {
         $('<li>').text("Population = " + item.population).appendTo(countriesList);
     });
 }
+
+
+console.log('test commits');
